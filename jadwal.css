@@ -1,0 +1,42 @@
+body {
+    font-family: "Times New Roman", serif;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 90%;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 14px;
+}
+
+/* WARNA SESUAI GAMBAR */
+.senin {
+    background-color: #f8caca;
+}
+
+.selasa {
+    background-color: #c9f7c9;
+}
+
+.rabu {
+    background-color: #cfd4ff;
+}
+
+.kamis {
+    background-color: #fff1b8;
+}
+
+.footer {
+    background-color: #eee;
+    font-weight: bold;
+}
